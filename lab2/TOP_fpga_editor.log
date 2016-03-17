@@ -1,0 +1,17 @@
+#:C0     
+#Xilinx FPGA Editor Command Log File
+#Editor Version:
+#:V   NT M2.1 P.68d
+#Current Working Directory:
+#:D   C:\Users\152\Russell_Jeffrey_Jack\lab2
+#Date/Time:
+#:T   Thu Jan 28 11:32:44 2016
+#------------------------------
+	#Reading TOP.ncd...
+	#Loading device for application Rf_Device from file '3s500e.nph' in environment C:\Xilinx\14.6\ISE_DS\ISE\.
+	#   "TOP" is an NCD, version 3.2, device xc3s500e, package fg320, speed -4
+	#Design creation date: 2016.01.28.19.32.17
+	#Building chip graphics...
+	#Loading speed info...
+	#1
+setattr main edit-mode no-logic-changes

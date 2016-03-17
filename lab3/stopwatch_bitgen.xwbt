@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\152\Russell_Jeffrey_Jack\lab3\lab3\stopwatch.ncd
+OUTFILE=C:\Users\152\Russell_Jeffrey_Jack\lab3\lab3\stopwatch.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=C:\Users\152\Russell_Jeffrey_Jack\lab3\lab3
+LICENSE=ISE
+USER_INFO=203015155_203016297_210565169_127

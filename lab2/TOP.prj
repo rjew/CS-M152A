@@ -1,0 +1,3 @@
+verilog work "priority_encoder.v"
+verilog work "mux.v"
+verilog work "TOP.v"

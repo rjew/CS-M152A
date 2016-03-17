@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\152\Russell_Jeffrey_Jack\lab2\TOP.ncd
+OUTFILE=C:\Users\152\Russell_Jeffrey_Jack\lab2\TOP.bit
+FAMILY=Spartan3E
+PART=xc3s500e-4fg320
+WORKINGDIR=C:\Users\152\Russell_Jeffrey_Jack\lab2
+LICENSE=ISE
+USER_INFO=203015155_203016297_210565169_127

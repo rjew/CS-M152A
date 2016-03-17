@@ -1,0 +1,24 @@
+Running: C:\Xilinx\14.6\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -o C:/Users/152/Russell_Jeffrey_Jack/lab2/tb_isim_beh.exe -prj C:/Users/152/Russell_Jeffrey_Jack/lab2/tb_beh.prj work.tb work.glbl 
+ISim P.68d (signature 0x7708f090)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/152/Russell_Jeffrey_Jack/lab2/priority_encoder.v" into library work
+Analyzing Verilog file "C:/Users/152/Russell_Jeffrey_Jack/lab2/mux.v" into library work
+Analyzing Verilog file "C:/Users/152/Russell_Jeffrey_Jack/lab2/TOP.v" into library work
+Analyzing Verilog file "C:/Users/152/Russell_Jeffrey_Jack/lab2/tb.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.6/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:329 - "C:/Users/152/Russell_Jeffrey_Jack/lab2/tb.v" Line 32: Target <S> of concurrent assignment or output port connection should be a net type.
+Completed static elaboration
+Compiling module priority_encoder
+Compiling module mux
+Compiling module TOP
+Compiling module tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 5 Verilog Units
+Built simulation executable C:/Users/152/Russell_Jeffrey_Jack/lab2/tb_isim_beh.exe
+Fuse Memory Usage: 27196 KB
+Fuse CPU Usage: 514 ms
